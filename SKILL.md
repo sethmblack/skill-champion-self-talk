@@ -3,8 +3,9 @@ name: champion-self-talk
 description: Develop a personal library of self-talk phrases that build mental strength, regulate emotions, and sustain championship-level performance.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.3556
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - champion-self-talk
 - writing
